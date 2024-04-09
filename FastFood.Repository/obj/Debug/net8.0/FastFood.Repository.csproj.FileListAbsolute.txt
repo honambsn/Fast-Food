@@ -1,0 +1,15 @@
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.csproj.AssemblyReference.cache
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.AssemblyInfoInputs.cache
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.AssemblyInfo.cs
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.csproj.CoreCompileInputs.cache
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.deps.json
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.dll
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.pdb
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\bin\Debug\net8.0\FastFood.Models.dll
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\bin\Debug\net8.0\FastFood.Models.pdb
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.csproj.CopyComplete
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.dll
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\obj\Debug\net8.0\refint\FastFood.Repository.dll
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.pdb
+D:\Ba Nam\Own project\Practice\c#\FastFood.Repository\obj\Debug\net8.0\ref\FastFood.Repository.dll
