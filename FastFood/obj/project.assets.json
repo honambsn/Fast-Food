@@ -865,6 +865,43 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Razor.Language": "6.0.0",
+          "Microsoft.CodeAnalysis.Razor": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation/8.0.4": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Razor.Extensions": "6.0.0",
+          "Microsoft.CodeAnalysis.Razor": "6.0.0",
+          "Microsoft.Extensions.DependencyModel": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ],
+        "build": {
+          "buildTransitive/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets": {}
+        }
+      },
       "Microsoft.AspNetCore.Razor.Language/6.0.24": {
         "type": "package",
         "compile": {
@@ -2990,6 +3027,7 @@
         "dependencies": {
           "Microsoft.AspNet.Identity.EntityFramework": "2.2.4",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.3",
+          "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "8.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.3"
         },
         "compile": {
@@ -3005,6 +3043,7 @@
         "dependencies": {
           "FastFood.Models": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.3",
+          "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "8.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.3"
         },
         "compile": {
@@ -4047,6 +4086,37 @@
         "lib/netstandard2.0/Microsoft.AspNetCore.Metadata.xml",
         "microsoft.aspnetcore.metadata.8.0.3.nupkg.sha512",
         "microsoft.aspnetcore.metadata.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.0": {
+      "sha512": "M0h+ChPgydX2xY17agiphnAVa/Qh05RAP8eeuqGGhQKT10claRBlLNO6d2/oSV8zy0RLHzwLnNZm5xuC/gckGA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.mvc.razor.extensions/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll",
+        "microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.mvc.razor.extensions.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation/8.0.4": {
+      "sha512": "876m+YvEo+rjbZNQv64RhOBtWVD08bOwT/g96G0cBm+810WiSR3f5C79XG+W59PuvF6JLGFz+IXYLHCjLCvOrQ==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.mvc.razor.runtimecompilation/8.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "build/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets",
+        "buildTransitive/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets",
+        "lib/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll",
+        "lib/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.xml",
+        "microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.4.nupkg.sha512",
+        "microsoft.aspnetcore.mvc.razor.runtimecompilation.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Razor.Language/6.0.24": {
@@ -8370,6 +8440,7 @@
     "net8.0": [
       "FastFood.Repository >= 1.0.0",
       "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter >= 8.0.3",
+      "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 8.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.3",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.2"
     ]
@@ -8382,11 +8453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood\\FastFood.csproj",
+      "projectUniqueName": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood\\FastFood.csproj",
       "projectName": "FastFood",
-      "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood\\FastFood.csproj",
+      "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood\\FastFood.csproj",
       "packagesPath": "C:\\Users\\honam\\.nuget\\packages\\",
-      "outputPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood\\obj\\",
+      "outputPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -8410,8 +8481,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Repository\\FastFood.Repository.csproj": {
-              "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Repository\\FastFood.Repository.csproj"
+            "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Repository\\FastFood.Repository.csproj": {
+              "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Repository\\FastFood.Repository.csproj"
             }
           }
         }
@@ -8429,6 +8500,10 @@
           "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
             "target": "Package",
             "version": "[8.0.3, )"
+          },
+          "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+            "target": "Package",
+            "version": "[8.0.4, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",

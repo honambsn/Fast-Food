@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Models\\FastFood.Models.csproj": {}
+    "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Models\\FastFood.Models.csproj": {}
   },
   "projects": {
-    "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Models\\FastFood.Models.csproj": {
+    "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Models\\FastFood.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Models\\FastFood.Models.csproj",
+        "projectUniqueName": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Models\\FastFood.Models.csproj",
         "projectName": "FastFood.Models",
-        "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Models\\FastFood.Models.csproj",
+        "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Models\\FastFood.Models.csproj",
         "packagesPath": "C:\\Users\\honam\\.nuget\\packages\\",
-        "outputPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Models\\obj\\",
+        "outputPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -54,6 +54,10 @@
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",

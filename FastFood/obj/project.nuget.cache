@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hM5fzJjxzktt/THp9B5GyeA+gpfQWyGU9Qf3lXORHF9DgWJI4J/8YI8k+KAs0Y2++quExgMgWgwYctTVaF4IQA==",
+  "dgSpecHash": "idskl/o+LRr0dYQ59XSdZubFse66Pw8HsPd7J8U5g7XmflvY8JrOmcq/arEkzraLk2ncPoVCBfyRMy5Mfcheng==",
   "success": true,
-  "projectFilePath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood\\FastFood.csproj",
+  "projectFilePath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood\\FastFood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\honam\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\honam\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -70,6 +70,8 @@
     "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.3\\microsoft.aspnetcore.cryptography.keyderivation.8.0.3.nupkg.sha512",
     "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\8.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.8.0.3.nupkg.sha512",
     "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.3\\microsoft.aspnetcore.metadata.8.0.3.nupkg.sha512",
+    "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.4\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.4.nupkg.sha512",
     "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\honam\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\honam\\.nuget\\packages\\microsoft.build\\17.8.3\\microsoft.build.17.8.3.nupkg.sha512",

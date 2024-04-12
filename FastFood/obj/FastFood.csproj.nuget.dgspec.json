@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood\\FastFood.csproj": {}
+    "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood\\FastFood.csproj": {}
   },
   "projects": {
-    "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Models\\FastFood.Models.csproj": {
+    "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Models\\FastFood.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Models\\FastFood.Models.csproj",
+        "projectUniqueName": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Models\\FastFood.Models.csproj",
         "projectName": "FastFood.Models",
-        "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Models\\FastFood.Models.csproj",
+        "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Models\\FastFood.Models.csproj",
         "packagesPath": "C:\\Users\\honam\\.nuget\\packages\\",
-        "outputPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Models\\obj\\",
+        "outputPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -55,6 +55,10 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -94,14 +98,14 @@
         }
       }
     },
-    "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Repository\\FastFood.Repository.csproj": {
+    "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Repository\\FastFood.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Repository\\FastFood.Repository.csproj",
+        "projectUniqueName": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Repository\\FastFood.Repository.csproj",
         "projectName": "FastFood.Repository",
-        "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Repository\\FastFood.Repository.csproj",
+        "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Repository\\FastFood.Repository.csproj",
         "packagesPath": "C:\\Users\\honam\\.nuget\\packages\\",
-        "outputPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Repository\\obj\\",
+        "outputPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -125,8 +129,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Models\\FastFood.Models.csproj": {
-                "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Models\\FastFood.Models.csproj"
+              "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Models\\FastFood.Models.csproj": {
+                "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Models\\FastFood.Models.csproj"
               }
             }
           }
@@ -145,6 +149,10 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -184,14 +192,14 @@
         }
       }
     },
-    "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood\\FastFood.csproj": {
+    "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood\\FastFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood\\FastFood.csproj",
+        "projectUniqueName": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood\\FastFood.csproj",
         "projectName": "FastFood",
-        "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood\\FastFood.csproj",
+        "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood\\FastFood.csproj",
         "packagesPath": "C:\\Users\\honam\\.nuget\\packages\\",
-        "outputPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood\\obj\\",
+        "outputPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -215,8 +223,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Repository\\FastFood.Repository.csproj": {
-                "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\FastFood.Repository\\FastFood.Repository.csproj"
+              "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Repository\\FastFood.Repository.csproj": {
+                "projectPath": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood.Repository\\FastFood.Repository.csproj"
               }
             }
           }
@@ -234,6 +242,10 @@
             "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
