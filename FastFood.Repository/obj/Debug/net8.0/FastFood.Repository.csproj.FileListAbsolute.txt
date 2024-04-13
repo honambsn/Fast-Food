@@ -325,3 +325,5 @@ D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood.Repository\bin\Debug\net8.0\
 D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood.Repository\bin\Debug\net8.0\refs\System.Xml.XPath.dll
 D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood.Repository\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
 D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood.Repository\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.runtimeconfig.json
+D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.genruntimeconfig.cache

@@ -26,6 +26,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Ba Nam/Own project/Practice/c\#/fastfood/FastFood/Areas/Admin/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ba Nam/Own project/Practice/c\#/fastfood/FastFood/Areas/Admin/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ba Nam/Own project/Practice/c\#/fastfood/FastFood/Areas/Admin/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Ba Nam/Own project/Practice/c\#/fastfood/FastFood/Areas/Identity/Views/Account/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,6 +56,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Ba Nam/Own project/Practice/c\#/fastfood/FastFood/Areas/Identity/Views/Shared/_LayoutIdentity.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcU2hhcmVkXF9MYXlvdXRJZGVudGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ba Nam/Own project/Practice/c\#/fastfood/FastFood/Areas/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ba Nam/Own project/Practice/c\#/fastfood/FastFood/Areas/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Ba Nam/Own project/Practice/c\#/fastfood/FastFood/Views/Home/Index.cshtml]

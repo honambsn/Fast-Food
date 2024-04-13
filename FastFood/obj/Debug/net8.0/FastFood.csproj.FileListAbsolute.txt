@@ -841,3 +841,5 @@ D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood\bin\Debug\net8.0\refs\Window
 D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood\obj\Debug\net8.0\FastFood.MvcApplicationPartsAssemblyInfo.cs
+D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ba Nam\Own project\Practice\c#\fastfood\FastFood\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll

@@ -11,7 +11,7 @@ namespace FastFood.Models
     {
         [Key]
         public int Id { get; set; }
-        public string ItemId { get; set; }
+        public virtual string ItemId { get; set; }
         public Item Item { get; set; }
         public string ApplicationUserId { get; set; }
         public ApplicationUser ApplicationUser { get; set; }

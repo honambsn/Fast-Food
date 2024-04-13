@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TwgETIIyIR4hCN2t3XVpUL6G8VotEWoHexaOm9cVVMs=",
+  "Hash": "qq2kvy1ou+z95FTc71BsZK/YfP8YeWcy8aUfXK1VD2A=",
   "Source": "FastFood",
   "BasePath": "_content/FastFood",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Identity": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\QuickGrid.razor.js",
+      "Identity": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\QuickGrid.razor.js"
+      "OriginalItemSpec": "C:\\Users\\honam\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js"
     },
     {
       "Identity": "D:\\Ba Nam\\Own project\\Practice\\c#\\fastfood\\FastFood\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FastFood.styles.css",
